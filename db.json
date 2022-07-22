@@ -2,20 +2,20 @@
   "HeaderSliders": [
     {
       "id": "h1",
-      "STitle": "Women Collection",
-      "Sheading": "NEW SEASONS",
+      "STitle": "Qadın Kolleksiyası",
+      "Sheading": "YENİ MÖVSÜMLƏR",
       "ImgSrc": "images/Slideimg1.webp"
     },
     {
       "id": "h2",
-      "STitle": "Men New-Season",
-      "Sheading": "NEW ARRIVALS",
+      "STitle": "Kişilər Yeni Mövsüm",
+      "Sheading": "YENİ GƏLƏNLƏR",
       "ImgSrc": "images/Slideimg2.webp"
     },
     {
       "id": "h3",
-      "STitle": "Men Collection",
-      "Sheading": "Jackets & Coats",
+      "STitle": "Kişi Kolleksiyası",
+      "Sheading": "Gödəkçələr & Paltolar",
       "ImgSrc": "images/Slideimg3.webp"
     }
   ],
